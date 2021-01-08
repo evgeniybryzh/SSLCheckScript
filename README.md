@@ -1,4 +1,6 @@
-# SSLCheckScript is a simple nodeJS app for checking the expiration date and status of SSL certificates of selected domains. Fast andy easy to use.
+# SSLCheckScript is a simple nodeJS app for checking the expiration date and status of SSL certificates of selected domains.
+
+# Fast and easy to use.
 
 # Getting Started with SSLCheckScript:
 
